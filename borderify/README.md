@@ -14,3 +14,10 @@ The content script draws a border around the document.body.
 ## What it shows
 
 * how to inject content scripts declaratively using manifest.json
+
+<a href="https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/">https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/</a>
+
+
+<a href="https://developer.mozilla.org/ru/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension">
+https://developer.mozilla.org/ru/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
+</a>
