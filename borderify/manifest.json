@@ -17,9 +17,7 @@
   ],
   "browser_action": {
     "browser_style": true,
-    "default_icons": {
-      "48": "icons/border-48.png"
-    },
+    "default_icon":  "icons/border-48.png",
     "default_title": "old-timer",
     "default_popup": "/popup.html"
   },
